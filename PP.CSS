@@ -1,0 +1,18 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color: blanchedalmond;
+    padding: 10px;
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+body{
+    background-image: url("portfolio 1.jpg");
+    background-size: cover;
+}
+p{
+    color:purple;
+}
